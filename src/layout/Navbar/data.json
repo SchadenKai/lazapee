@@ -1,0 +1,15 @@
+{
+    "upper-navbar" : [
+        "Save more on App",
+        "Sell on Lazada",
+        "Customer Care",
+        "Track My Order",
+        "Login",
+        "Signup"
+    ],
+    "lower-navbar" : {
+        "lazada-brand-img" : "https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png",
+        "apply-now-icon" : "https://icms-image.slatic.net/images/ims-web/c11e49d8-f74c-43fe-84cb-276b93071700.png"
+    },
+    "testing" : 2312
+}

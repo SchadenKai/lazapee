@@ -1,2 +1,2 @@
-# lazapee
+# Lazapee
 E-commerce web app 
